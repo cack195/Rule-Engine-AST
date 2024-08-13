@@ -61,23 +61,4 @@ This project is a Rule Engine Application consisting of a backend API built with
 
     The frontend will be running at `http://localhost:3000`.
 
-### Backend file structure
-
-    ```
-    rule-engine-ast/
-    |
-    ├── models/
-    │   └── rule.js
-    ├── controllers/
-    │   └── ruleController.js
-    ├── routes/
-    │   └── ruleRoutes.js
-    ├── services/
-    │   └── ruleService.js
-    ├── app.js
-    └── index.js
-    ```
-   
-### Frontend file structure
-
 
